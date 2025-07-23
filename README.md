@@ -1,2 +1,3 @@
 # Tjr102_G1
-for group one testing 第一組
+for group one testing 第一組 
+這裡是Tjr102第一組：與房地產相關
