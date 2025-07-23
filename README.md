@@ -1,8 +1,4 @@
 # Tjr102_G1
-for group one testing 第一組  
-
-這裡是Tjr102第一組：與房地產相關的專題 
-
 SOP：先pull，把資料更新，再變更或使用，最後再push 
 
 merge：先切入main再pull，然後先切入要merge進去的分支，點自己點merge，然後push  
