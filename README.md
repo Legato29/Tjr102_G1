@@ -5,7 +5,7 @@ for group one testing 第一組
 
 SOP：先pull，把資料更新，再變更或使用，最後再push 
 
-merge，先切入main再pull，然後先切入要merge進去的分支，點自己點merge，然後push  
+merge：先切入main再pull，然後先切入要merge進去的分支，點自己點merge，然後push  
 接著切入main(目的地)，點自己merge，然後push  
 
  Merge（合併分支）：將一個分支的內容合併到目前分支。  
