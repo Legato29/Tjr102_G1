@@ -11,4 +11,9 @@ merge：先切入main再pull，然後先切入要merge進去的分支，點自�
  4.點擊 OK 合併。  
  5.若有衝突，SourceTree 會提示你解決衝突。  
  6.你可以透過內建的合併工具或手動編輯檔案。  
- 7.解完衝突後，要記得 Commit merge。 
+ 7.解完衝突後，要記得 Commit merge。   
+
+可將筆記等內容之連結，共享於此：
+Notion - Git 筆記整理：https://charmed-cairnsmore-52c.notion.site/Git-23cbf70ac5a8807887b7f49617dc6a60
+Notion - Docker 筆記整理：https://charmed-cairnsmore-52c.notion.site/Docker-23cbf70ac5a8801699aedf3940f73678
+Notion - MongoDB筆記整理：https://charmed-cairnsmore-52c.notion.site/Monogo-DB-23dbf70ac5a880e9a028e9ed74c78b47?pvs=73
